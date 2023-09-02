@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazantseff)](https://github.com/anuraghazra/github-readme-stats)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31inssjynooi5zrsl4err3qr7xg4&unique={true|1|on|yes})
